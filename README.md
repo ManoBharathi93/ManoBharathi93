@@ -3,7 +3,7 @@
 I am Machine learning and Deep learning practitioner and learner. Exploring  **QUESTIONS** and  **UNIVERSE** and Explore the **scattered Data** and **Identify the pattern** with help Machine Learning Algorthims. I am here to solve problems, Learning a lot in this Journey.
 
 ## Updates:
-- 🌱 I’m currently learning as a **Machine Learning** and **Deep Learning**
+- 🌱 I’m currently learning  **Machine Learning** and **Deep Learning**
 - 🔭 I’m currently working on my [first open source project](https://github.com/ManoBharathi890/MachineLearning) related to Machine Learning Community.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
