@@ -4,7 +4,6 @@ I am Machine learning and Deep learning practitioner and learner. Exploring  **Q
 
 ## Updates:
 - 🌱 I’m currently learning  **Machine Learning** and **Deep Learning**
-- 🔭 I’m currently working on my [first open source project](https://github.com/ManoBharathi890/MachineLearning) related to Machine Learning Community.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 ### Connect with me 🤝:
