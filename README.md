@@ -4,6 +4,12 @@ I am Machine learning and Deep learning practitioner and learner. Exploring  **Q
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FD23&width=435&lines=Artificial+Intelligence+Enthusiast;Learn%2C+Collaborate+and+Help+others;Looking+for+ML+Engineer+Role" alt="Typing SVG" /></a>
 
+## 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
+
+
 ## Updates:
 - 🌱 I’m currently learning  **Machine Learning** and **Deep Learning**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
