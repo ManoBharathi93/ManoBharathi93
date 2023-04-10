@@ -16,5 +16,5 @@ jobs:
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://manobharathi.hashnode.dev/
+          feed-url: https://medium.com/feed/@immanobharathi21
           readme-section: notes
