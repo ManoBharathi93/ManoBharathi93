@@ -12,9 +12,9 @@ I am Machine learning and Deep learning practitioner and learner. Exploring  **Q
 - 🌱 I’m currently learning  **Machine Learning** and **Deep Learning**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
-### Connect with me 🤝:
-<a href="https://www.linkedin.com/in/manobharathi-m/"><img align="left" src="https://github.com/ManoBharathi890/Manobharathi/blob/main/images/linkedin.png" alt="Mano Bharathi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/m_manobharathi"><img align="left" src="https://github.com/ManoBharathi890/Manobharathi/blob/main/images/twitter.png" alt="Mano Bharathi | Twitter" width="21px"/></a>
+<!--### Connect with me 🤝:
+<a href="https://www.linkedin.com/in/manobharathi-m/"><img align="left" src="https://github.com/ManoBharathi93/Manobharathi/blob/main/images/linkedin.png" alt="Mano Bharathi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/m_manobharathi"><img align="left" src="https://github.com/ManoBharathi93/Manobharathi/blob/main/images/twitter.png" alt="Mano Bharathi | Twitter" width="21px"/></a>-->
 </br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoBharathi890)](https://github.com/ManoBharathi890/github-readme-stats)-->
 
