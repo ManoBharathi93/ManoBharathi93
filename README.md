@@ -16,8 +16,6 @@ I am Machine learning and Deep learning practitioner and learner. Exploring  **Q
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoBharathi890)](https://github.com/ManoBharathi890/github-readme-stats)-->
 
-#### 
-![ManoBharathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoBharathi93&show_icons=true&theme=radical)
 
 <!--
 **ManoBharathi890/ManoBharathi890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
