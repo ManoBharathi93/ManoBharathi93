@@ -14,11 +14,10 @@ I am Machine learning and Deep learning practitioner and learner. Exploring  **Q
 - 🧑‍💻 Part Time Freelancer at UpWork and Full time Undergraduate Student
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoBharathi890)](https://github.com/ManoBharathi890/github-readme-stats)-->
 
 
 <!--
-**ManoBharathi890/ManoBharathi890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
