@@ -1,5 +1,5 @@
 # Hey 👋, I'm MANO BHARATHI !:computer:
-<img src="https://github.com/ManoBharathi93/ManoBharathi93/blob/main/Banner.png">
+<img src="https://github.com/ManoBharathi93/ManoBharathi93/blob/main/Banner.png" >
  ♂ He/Him/His 📍 Living in Salem, India
 
 * I work as a Data-centric-Deep learning engineer. Mostly using PyTorch, TensorFlow, Keras, SciKit Learn, Pandas, Numpy.
