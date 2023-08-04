@@ -9,7 +9,7 @@
 * General mails at immanobharathi21@gmail.com
 
 # Work experience
-* Part-Time Freelancer at UpWork
+* Part-Time Machine Learning Freelancer 
 * Student Research Assistant SKCET
 * Open-Source Contributor. 
 
