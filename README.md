@@ -17,7 +17,8 @@
 * [Face Recogintion](https://github.com/ManoBharathi93/face_recognition/tree/main)
 * [Sign_Language_Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main)
 * [Music-Recommedation-System](https://github.com/ManoBharathi93/Music-Recommedation-System)
-* [other Small projects](https://github.com/ManoBharathi93/MachineLearningProjects/tree/main)
+* [Sentiment_Classifier](https://github.com/ManoBharathi93/Sentiment_Classifier)
+* [List of all projects](https://github.com/ManoBharathi93/MachineLearningProjects/tree/main)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FD23&width=435&lines=Artificial+Intelligence+Enthusiast;Learn%2C+Collaborate+and+Help+others;Looking+for+ML+Engineer+Role" alt="Typing SVG" /></a>
 
