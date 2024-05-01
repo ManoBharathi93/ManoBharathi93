@@ -14,8 +14,7 @@
 * Open-Source Contributor. 
 
 # Projects and showcase
-* [Face Recogintion](https://github.com/ManoBharathi93/face_recognition/tree/main)
-* [Sign_Language_Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main)
+* [Multi-modal LLM](https://github.com/ManoBharathi93/Multi-Modal_LLM)
 * [Music-Recommedation-System](https://github.com/ManoBharathi93/Music-Recommedation-System)
 * [Sentiment_Classifier](https://github.com/ManoBharathi93/Sentiment_Classifier)
 * [List of all projects](https://github.com/ManoBharathi93/MachineLearningProjects/tree/main)
