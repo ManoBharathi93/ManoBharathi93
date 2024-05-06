@@ -9,6 +9,7 @@
 * General mails at immanobharathi21@gmail.com
 
 # Work experience
+* Research and Development Intern at OpenText
 * Part-Time Machine Learning Freelancer 
 * Student Research Assistant SKCET
 * Open-Source Contributor. 
@@ -19,7 +20,7 @@
 * [Sentiment_Classifier](https://github.com/ManoBharathi93/Sentiment_Classifier)
 * [List of all projects](https://github.com/ManoBharathi93/MachineLearningProjects/tree/main)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FD23&width=435&lines=Artificial+Intelligence+Enthusiast;Learn%2C+Collaborate+and+Help+others;Looking+for+ML+Engineer+Role" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FD23&width=435&lines=Artificial+Intelligence+Enthusiast;Learn%2C+Collaborate+and+Help+others" alt="Typing SVG" /></a>
 
 
 # Socials:
