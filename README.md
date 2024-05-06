@@ -1,4 +1,4 @@
-# Hey 👋, I'm MANO BHARATHI !:computer:
+# Hey 👋, I'm MANO BHARATHI 🧑‍💻:
 <img src="https://github.com/ManoBharathi93/ManoBharathi93/blob/main/Banner.png" >
  ♂ He/Him/His 📍 Living in Salem, India
 
