@@ -9,7 +9,7 @@
 * General mails at immanobharathi21@gmail.com
 
 # Work experience
-* Research and Development Intern at OpenText
+* Engineering Intern at OpenText
 * Part-Time Machine Learning Freelancer 
 * Student Research Assistant SKCET
 * Open-Source Contributor. 
