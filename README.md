@@ -12,7 +12,7 @@
 * Associate Software Engineer at OpenText
 * Part-Time Machine Learning Freelancer 
 * Student Research Assistant SKCET
-* Open-Source Contributor. 
+
 
 # Projects and showcase
 * [Multi-modal LLM](https://github.com/ManoBharathi93/Multi-Modal_LLM)
