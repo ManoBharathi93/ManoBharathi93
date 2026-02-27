@@ -4,7 +4,7 @@
 
 * I work as a Data-centric-Deep learning engineer. Mostly using PyTorch, Basic TensorFlow, Keras, SciKit Learn, Pandas, Numpy.
 
-* Interested in Machine Learning and Deep Learning domains.
+* Interested in Backend infreastrtcure and Machine Learning and Deep Learning domains.
 
 * General mails at immanobharathi21@gmail.com
 
