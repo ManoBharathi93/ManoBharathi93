@@ -14,11 +14,11 @@
 * Student Research Assistant SKCET
 
 
-# Projects and showcase
-* [Multi-modal LLM](https://github.com/ManoBharathi93/Multi-Modal_LLM)
-* [Music-Recommedation-System](https://github.com/ManoBharathi93/Music-Recommedation-System)
-* [Sentiment_Classifier](https://github.com/ManoBharathi93/Sentiment_Classifier)
-* [List of all projects](https://github.com/ManoBharathi93/MachineLearningProjects/tree/main)
+# Recent Projects 
+* [Adaptive-Compute-Efficient-Learning-via-Conceptual-Criticality](https://github.com/ManoBharathi93/Adaptive-Compute-Efficient-Learning-via-Conceptual-Criticality)
+* [Why Fixed Top-K Retrieval Is Secretly Hurting Your RAG System](https://github.com/ManoBharathi93/Dynamic-Retriever/)
+* [Adaptive Runbook Intelligence Platform](https://github.com/ManoBharathi93/Adaptive-Runbook-Intelligence)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FD23&width=435&lines=Artificial+Intelligence+Enthusiast;Learn%2C+Collaborate+and+Help+others" alt="Typing SVG" /></a>
 
